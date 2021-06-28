@@ -20,3 +20,9 @@
   </a>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
+
+
+## 🔥 DeCaelo's Activity Graph
+
+<!-- https://github.com/DeCaelo/github-readme-activity-graph -->
+<a href=""><img alt="DeCaelo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DeCaelo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
