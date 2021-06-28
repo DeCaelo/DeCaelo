@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7D15B&lines=javascript+%26+ruby+developer)](https://git.io/typing-svg)
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F7D15B&lines=javascript+%26+ruby+developer"></a>
 </p>
