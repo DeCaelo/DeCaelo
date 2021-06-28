@@ -6,12 +6,10 @@
 
 #### https://ludoviccleuet.netlify.app/
 
-<p align="center">
-<a href="">![](https://github-readme-stats.vercel.app/api?username=DeCaelo&theme=nightowl&hide=issues,contribs&show_icons=true&count_private=true)</a>
-</p>
-<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=DeCaelo&theme=nightowl&hide=issues,contribs&show_icons=true&count_private=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeCaelo&hide=elm&layout=compact&hide_title=true&theme=nightowl)
-</p>
+
 
 ## 🔥 Streak stats
 
