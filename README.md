@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/Decaelo/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F7D15B&lines=javascript+%26+ruby+developer"></a>
 </p>
