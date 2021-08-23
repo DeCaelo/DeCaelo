@@ -24,6 +24,6 @@ https://ludoviccleuet.netlify.app/
 <a href=""><img alt="DeCaelo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DeCaelo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
-![](https://github-readme-stats.vercel.app/api?username=DeCaelo&theme=nightowl&hide=issues,contribs&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=DeCaelo&theme=nightowl&hide=issues,prs,contribs&show_icons=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeCaelo&hide=elm&layout=compact&hide_title=true&theme=nightowl)
