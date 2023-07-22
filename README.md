@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DeCaelo's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DeCaelo&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DeCaelo's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DeCaelo&theme=gruvbox-duo&hide_border=true"/>
   </a>
 </p>
 
