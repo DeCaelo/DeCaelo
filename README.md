@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DeCaelo's streak" src="https://streak-stats.demolab.com/?user=DeCaelo&theme=gruvbox-duo"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DeCaelo's streak" src="[https://streak-stats.demolab.com/?user=DeCaelo&theme=gruvbox-duo](https://github-readme-streak-stats-vijaypur.vercel.app/?user=DeCaelo&theme=gruvbox-duo)"/>
   </a>
 </p>
 
