@@ -13,7 +13,7 @@
 ## 🔥 Streak stats
 
 <p align="center">
-	[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=DeCaelo&theme=gruvbox-duo)](https://git.io/streak-stats)
+	<a href="https://git.io/streak-stats"><img src="[https://github-readme-streak-stats-vijaypur.vercel.app?user=](https://github-readme-streak-stats-vijaypur.vercel.app/?user=DeCaelo&theme=gruvbox-duo)" alt="GitHub Streak" /></a>
 </p>
 
 
