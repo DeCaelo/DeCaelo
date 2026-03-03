@@ -4,51 +4,60 @@
   </a>
 </div>
 
+<br />
+
+<div align="center">
+  <a href="https://readme-github-profile-card.vercel.app/">
+    <img src="https://img.shields.io/badge/Profile_Card-F7D15B?style=for-the-badge&logo=vercel&logoColor=black" alt="Profile Card" />
+  </a>
+</div>
+
 ---
 
-### 👨‍💻 About me
+### About me
 
-Fullstack developer focused on **clean architecture** (DDD, SOLID) and **developer experience**.  
+Fullstack developer focused on **clean architecture** (DDD, SOLID) and **developer experience**.
 Frontend with **React / TypeScript / Tailwind**, backend with **Ruby on Rails**, **Elixir/Phoenix**, and **Rust** for performance-critical systems.
 
 ---
 
-### 🔥 Streak
+### Currently
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=DeCaelo&theme=gruvbox-duo" alt="GitHub Streak" />
-  </a>
+- Reading **Designing Data-Intensive Applications**
+- Building tools with **Claude Code** + **AI-native dev workflows**
+- Exploring **Rust** for backend systems
+
+---
+
+### Skills
+
+<p>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="36" height="36" alt="Ruby" title="Ruby" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="36" height="36" alt="Rails" title="Rails" />
+  <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" width="36" height="36" alt="Elixir" title="Elixir" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg" width="36" height="36" alt="Phoenix" title="Phoenix" />
+  <img src="https://www.rust-lang.org/logos/rust-logo-128x128.png" width="36" height="36" alt="Rust" title="Rust" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" title="Node.js" />
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="36" height="36" alt="GraphQL" title="GraphQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" title="Docker" />
 </p>
 
 ---
 
-### 🛠 Skills
+### Stats
 
-#### Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeCaelo&show_icons=true&theme=dark&bg_color=0d1117&title_color=f7d15b&icon_color=f7d15b&text_color=e6edf3&border_color=30363d&hide_border=false" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeCaelo&layout=compact&theme=dark&bg_color=0d1117&title_color=f7d15b&text_color=e6edf3&border_color=30363d&hide_border=false&langs_count=8" height="165" alt="Top Languages" />
 </p>
 
-#### Backend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="36" height="36" alt="Ruby" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="36" height="36" alt="Rails" />
-  <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" width="36" height="36" alt="Elixir" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg" width="36" height="36" alt="Phoenix" />
-  <img src="https://www.rust-lang.org/logos/rust-logo-128x128.png" width="36" height="36" alt="Rust" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-</p>
+---
 
-#### Tools & Practices
-<p>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="36" height="36" alt="GraphQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
-</p>
-
-#### Link
-<a href="https://readme-github-profile-card.vercel.app/">https://readme-github-profile-card.vercel.app/</p>
+<div align="center">
+  <a href="https://readme-github-profile-card.vercel.app/">readme-github-profile-card.vercel.app</a>
+</div>
