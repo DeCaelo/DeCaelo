@@ -23,15 +23,6 @@ Frontend with **React / TypeScript / Tailwind**, backend with **Ruby on Rails**,
 
 ---
 
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeCaelo&show_icons=true&theme=gruvbox&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeCaelo&layout=compact&theme=gruvbox&hide_border=true" height="165" />
-</p>
-
----
-
 ### 🛠 Skills
 
 #### Frontend
