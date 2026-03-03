@@ -52,8 +52,15 @@ Frontend with **React / TypeScript / Tailwind**, backend with **Ruby on Rails**,
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeCaelo&show_icons=true&theme=dark&bg_color=0d1117&title_color=f7d15b&icon_color=f7d15b&text_color=e6edf3&border_color=30363d&hide_border=false" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeCaelo&layout=compact&theme=dark&bg_color=0d1117&title_color=f7d15b&text_color=e6edf3&border_color=30363d&hide_border=false&langs_count=8" height="165" alt="Top Languages" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=DeCaelo&theme=dark&background=0d1117&ring=f7d15b&fire=f7d15b&currStreakLabel=f7d15b&sideLabels=e6edf3&sideNums=e6edf3&dates=6e7681&border=30363d" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/DeCaelo?style=flat-square&color=f7d15b&labelColor=0d1117" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/DeCaelo?style=flat-square&color=f7d15b&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/badge/public_repos-124-f7d15b?style=flat-square&labelColor=0d1117" alt="Repos" />
 </p>
 
 ---
