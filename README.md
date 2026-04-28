@@ -31,21 +31,27 @@ Frontend with **React / TypeScript / Tailwind**, backend with **Ruby on Rails**,
 
 ### Skills
 
-<p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="36" height="36" alt="Ruby" title="Ruby" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="36" height="36" alt="Rails" title="Rails" />
-  <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" width="36" height="36" alt="Elixir" title="Elixir" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg" width="36" height="36" alt="Phoenix" title="Phoenix" />
-  <img src="https://www.rust-lang.org/logos/rust-logo-128x128.png" width="36" height="36" alt="Rust" title="Rust" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" title="Node.js" />
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="36" height="36" alt="GraphQL" title="GraphQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" title="Docker" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /><br/><sub>TypeScript</sub></td>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /><br/><sub>React</sub></td>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind" /><br/><sub>Tailwind</sub></td>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /><br/><sub>JavaScript</sub></td>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="36" height="36" alt="Ruby" /><br/><sub>Ruby</sub></td>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="36" height="36" alt="Rails" /><br/><sub>Rails</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" width="36" height="36" alt="Elixir" /><br/><sub>Elixir</sub></td>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg" width="36" height="36" alt="Phoenix" /><br/><sub>Phoenix</sub></td>
+    <td align="center" width="60"><img src="https://www.rust-lang.org/logos/rust-logo-128x128.png" width="36" height="36" alt="Rust" /><br/><sub>Rust</sub></td>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /><br/><sub>Node.js</sub></td>
+    <td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="36" height="36" alt="GraphQL" /><br/><sub>GraphQL</sub></td>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /><br/><sub>PostgreSQL</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" /><br/><sub>Docker</sub></td>
+  </tr>
+</table>
 
 ---
 
