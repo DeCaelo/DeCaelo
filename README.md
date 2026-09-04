@@ -59,7 +59,7 @@ Frontend with **React / TypeScript / Tailwind**, backend with **Ruby on Rails**,
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=DeCaelo&theme=dark&background=0d1117&ring=f7d15b&fire=f7d15b&currStreakLabel=f7d15b&sideLabels=e6edf3&sideNums=e6edf3&dates=6e7681&border=30363d" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=DeCaelo&theme=dark&background=0d1117&ring=f7d15b&fire=f7d15b&currStreakLabel=f7d15b&sideLabels=e6edf3&sideNums=e6edf3&dates=6e7681&border=30363d" alt="GitHub Streak" />
   </a>
 </p>
 
